@@ -1,7 +1,7 @@
 {
-  "name": "shoplic-kr/continy-module-email-verification",
-  "description": "Continy module - Email verification",
-  "homepage": "https://github.com/shoplic-kr/continy-module-email-verification",
+  "name": "shoplic-kr/continy-support-email-verification",
+  "description": "Continy Support - Email verification",
+  "homepage": "https://github.com/shoplic-kr/continy-support-email-verification",
   "type": "library",
   "license": "GPL-2.0-or-later",
   "autoload": {
