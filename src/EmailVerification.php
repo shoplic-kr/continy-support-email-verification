@@ -1,11 +1,11 @@
 <?php
 
-namespace ShoplicKr\Continy\Modules;
+namespace ShoplicKr\Continy\Supports;
 
 use Exception;
-use ShoplicKr\Continy\Module;
+use \ShoplicKr\Continy\Support;
 
-interface EmailVerification extends Module
+interface EmailVerification extends Support
 {
     const DEFAULT_TIMEOUT = 1_800;
 

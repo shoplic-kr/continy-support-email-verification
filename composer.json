@@ -6,12 +6,12 @@
   "license": "GPL-2.0-or-later",
   "autoload": {
     "psr-4": {
-      "ShoplicKr\\Continy\\Modules\\": "src/"
+      "ShoplicKr\\Continy\\Supports\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "ShoplicKr\\ContinyModules\\EmailVerification\\Tests\\": "tests/"
+      "ShoplicKr\\Continy\\Tests\\": "tests/"
     }
   },
   "authors": [

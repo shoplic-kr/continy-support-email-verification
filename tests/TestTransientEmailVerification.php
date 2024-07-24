@@ -1,9 +1,9 @@
 <?php
 
-namespace ShoplicKr\ContinyModules\EmailVerification\Tests;
+namespace ShoplicKr\Continy\Tests;
 
-use ShoplicKr\Continy\Modules\TransientEmailVerification;
 use WP_UnitTestCase;
+use ShoplicKr\Continy\Supports\TransientEmailVerification;
 
 class TestTransientEmailVerification extends WP_UnitTestCase
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ShoplicKr\Continy\Modules;
+namespace ShoplicKr\Continy\Supports;
 
 use WP_Error;
 

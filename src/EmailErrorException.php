@@ -1,6 +1,6 @@
 <?php
 
-namespace ShoplicKr\Continy\Modules;
+namespace ShoplicKr\Continy\Supports;
 
 use Exception;
 
