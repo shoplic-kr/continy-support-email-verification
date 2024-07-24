@@ -1,4 +1,3 @@
-# Continy Module Email Verification
+# Continy Support Email Verification
 
-Continy 모듈 - 이메일의 인증 프로세스 모듈
-
+Continy 서포트 - 이메일의 인증 프로세스 서포트
