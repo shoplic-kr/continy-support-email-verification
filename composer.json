@@ -32,7 +32,6 @@
     "test": "WP_CORE_DIR=$PWD/tests-core WP_TESTS_DIR=$PWD/tests-lib WP_TESTS_PHPUNIT_POLYFILLS_PATH=$PWD/vendor/yoast/phpunit-polyfills vendor/bin/phpunit",
     "test:setup": "WP_CORE_DIR=$PWD/tests-core WP_TESTS_DIR=$PWD/tests-lib ./bin/install-wp-tests.sh"
   },
-  "minimum-stability": "beta",
   "version": "1.0.0",
   "repositories": [
     {
